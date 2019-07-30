@@ -1,6 +1,6 @@
 # How to bind ASPxGridView to data using data source parameters stored in the server session
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1664)**
+**[[Run Online]](https://codecentral.devexpress.com/e1664/)**
 <!-- run online end -->
 
 
